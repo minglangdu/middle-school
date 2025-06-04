@@ -1,0 +1,53 @@
+Base version of cipher
+by Minglang, 7-C6
+
+
+Original string: 
+ 
+Look at a stone cutter hammering away at his rock, perhaps a
+hundred times without as much as a crack showing in it. Yet at
+the hundred-and-first blow it will split in two, and I know it
+was not the last blow that did it, but all that had gone before.
+-- Jacob Riis
+
+Encrypted string: 
+ 
+ALL,R7.R7R!.LqcR9-..cJRI7OOcJFqgR7y7bR7.RIF!RJL9,pRdcJI7d!R7
+I-q5Jc5R.FOc!RyF.IL-.R7!RO-9IR7!R7R9J79,R!ILyFqgRFqRF.VRZc.R7.
+.IcRI-q5Jc5f7q5fkFJ!.R1/LyRF.RyF//R!d/F.RFqR.yLpR7q5RGR,qLyRF.
+y7!RqL.R.IcR/7!.R1/LyR.I7.R5F5RF.pR1-.R7//R.I7.RI75RgLqcR1ckLJcV
+ffR379L1RDFF!
+
+Decrypted string: 
+ 
+Look at a stone cutter hammering away at his rock, perhaps a
+hundred times without as much as a crack showing in it. Yet at
+the hundred-and-first blow it will split in two, and I know it
+was not the last blow that did it, but all that had gone before.
+-- Jacob Riis
+
+
+Original string: 
+ 
+SPHINX OF BLACK QUARTZ, JUDGE MY VOW! Waxy and quivering, jocks fumble the pizza. Is it the job of the wizard to vex the chumps quickly in fog?
+
+Encrypted string: 
+ 
+XKTGzvRQHRhAWeoRxSWDsCpR3SNatRuZRUQnrRn7wbR7q5RB-F0cJFqgpR L9,!Rk-O1/cR.IcRdFEE7VRG!RF.R.IcR L1RLkR.IcRyFE7J5R.LR0cwR.IcR9I-Od!RB-F9,/bRFqRkLg4
+
+Decrypted string: 
+ 
+SPHINX OF BLACK QUARTZ, JUDGE MY VOW! Waxy and quivering, jocks fumble the pizza. Is it the job of the wizard to vex the chumps quickly in fog?
+
+
+Original string: 
+ 
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 ,.!?/-+*()$
+
+Encrypted string: 
+ 
+WheNtHaTG3oAuzQKxDXsSUnvZC7195ckgIF ,/OqLdBJ!.-0ywbE:l;m862YPMRpVr4?f+*()$
+
+Decrypted string: 
+ 
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 ,.!?/-+*()$

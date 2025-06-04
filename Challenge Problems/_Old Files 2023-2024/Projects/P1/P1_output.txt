@@ -1,0 +1,28 @@
+Welcome to Insanity Libs!
+By Minglang
+Please select a story.
+1. Terrible Vacation
+2. 'This is not a drill'
+1
+Starting crazy lib...
+
+Please enter a random word with the part of speech given.
+Enter a name: Bob
+Enter a mode of transport: plane
+Enter a location: school
+Enter a adjective: brown
+Enter a adjective: black
+Enter a adjective: small
+Enter a location: home
+Enter a adjective: mainstream
+Enter a past tense verb: ate
+Enter a verb: read
+Enter a verb: write
+Story:
+
+Today, me and Bob had a vacation. We took the plane to school.
+It was the most brown vacation ever! First, the hotels were black. Also, there were
+no small places to go. I wanted to go to home but it was 'too mainstream'. The other person
+ate all the time there. I never want to read again because of that place. Please write me.
+Thank you for playing Insanity Libs!
+Enter 'a' to replay! b

@@ -1,0 +1,32 @@
+Unenhanced pseudocode:
+----------------------
+
+encrypt_char:
+	check if it is every normal letter
+	and return their encrypted version
+	otherwise return the normal letter
+	
+decrypt_char:
+	check if it is every encrypted letter
+	and return their normal version
+	otherwise return the encrypted letter
+
+encrypt:
+	for each character,
+	concatenate encrypt_char(char)
+		
+decrypt:
+	for each character,
+	concatentate decrypt_char(char)
+		
+Enhanced pseudocode changes
+---------------------------
+
+encrypt_char:
+	if the character is a common letter, 
+	return the encrypted letter or another letter
+	randomly with random module
+	
+decrypt_char:
+	if the character is the encrypted letter or the other letter,
+	return the normal letter

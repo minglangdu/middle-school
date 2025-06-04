@@ -1,0 +1,67 @@
+Welcome to the INSANITY Crazy Lib Menu!
+By Minglang
+Choose a number or input 'q' to quit. 
+1. Minglang Du's crazy lib.
+2. CORRUPTED LIB
+3. Anish Sharma's crazy lib.
+4. Ayden Sean Liu's crazy lib.
+5. CORRUPTED LIB
+6. Chloe Ta's crazy lib.
+7. Claire Gao's crazy lib.
+8. CORRUPTED LIB
+9. Disha Vinod Chikkaballapur's crazy lib.
+10. Elise Tran's crazy lib.
+11. Madeleine Do's crazy lib.
+12. Olivia Houston's crazy lib.
+13. Thiyagesh's crazy lib.
+14. Victor Ma's crazy lib.
+1
+Using Minglang Du 's crazy lib.
+Welcome to INSANITY LIBS!
+By Minglang
+Please select a story.
+1. Terrible Vacation
+2. 'This Is Not A Drill!'
+3. Worst Day Ever
+1
+Starting crazy lib...
+
+Please enter a random word with the part of speech given.
+Enter a name: Minglang
+Enter a mode of transport: train
+Enter a location: Canada
+Enter a adjective: cold
+Enter a adjective: wet
+Enter a adjective: dry
+Enter a location: Hollywood
+Enter a adjective: mainstream
+Enter a past tense verb: ate
+Enter a verb: read
+Enter a verb: write
+Story:
+
+Today, me and Minglang had a vacation. We took the train to Canada.
+    It was the most cold vacation ever! First, the hotels were wet. Also, there were
+    no dry places to go. I wanted to go to Hollywood but it was 'too mainstream'. The other person
+    ate all the time there. I never want to read again because of that place. 
+    Please write me.
+Thank you for playing Insanity Libs!
+Enter 'a' to replay! b
+Choose a number or input 'q' to quit. 
+1. Minglang Du's crazy lib.
+2. CORRUPTED LIB
+3. Anish Sharma's crazy lib.
+4. Ayden Sean Liu's crazy lib.
+5. CORRUPTED LIB
+6. Chloe Ta's crazy lib.
+7. Claire Gao's crazy lib.
+8. CORRUPTED LIB
+9. Disha Vinod Chikkaballapur's crazy lib.
+10. Elise Tran's crazy lib.
+11. Madeleine Do's crazy lib.
+12. Olivia Houston's crazy lib.
+13. Thiyagesh's crazy lib.
+14. Victor Ma's crazy lib.
+q
+Thank you for using the INSANITY Crazy Lib Menu!
+By Minglang

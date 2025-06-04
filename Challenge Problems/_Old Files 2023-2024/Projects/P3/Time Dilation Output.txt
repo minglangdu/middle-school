@@ -1,0 +1,87 @@
+Time Dilation Calculator
+------------------------------------------------------------------------
+Enter all values without units
+You will be prompted for units separately. 
+Enter the length of interstellar travel time: 180
+Enter the unit of time: days
+
+Time Dilation Table
+----------------------------------------------------------------------------------------------------
+Percent of Light Speed   Travel Time              Time Dilation            Earth Time               
+----------------------------------------------------------------------------------------------------
+10                       180.0 days               x 0.99                   180.91 days              
+20                       180.0 days               x 0.98                   183.71 days              
+30                       180.0 days               x 0.95                   188.69 days              
+40                       180.0 days               x 0.92                   196.4 days               
+50                       180.0 days               x 0.87                   207.85 days              
+60                       180.0 days               x 0.8                    225.0 days               
+70                       180.0 days               x 0.71                   252.05 days              
+80                       180.0 days               x 0.6                    300.0 days               
+90                       180.0 days               x 0.44                   412.95 days              
+91                       180.0 days               x 0.41                   434.14 days              
+92                       180.0 days               x 0.39                   459.28 days              
+93                       180.0 days               x 0.37                   489.72 days              
+94                       180.0 days               x 0.34                   527.59 days              
+95                       180.0 days               x 0.31                   576.46 days              
+96                       180.0 days               x 0.28                   642.86 days              
+97                       180.0 days               x 0.24                   740.42 days              
+98                       180.0 days               x 0.2                    904.53 days              
+99                       180.0 days               x 0.14                   1275.99 days  
+Time Dilation Calculator
+------------------------------------------------------------------------
+Enter all values without units
+You will be prompted for units separately. 
+Enter the length of interstellar travel time: 10
+Enter the unit of time: years
+
+Time Dilation Table
+----------------------------------------------------------------------------------------------------
+Percent of Light Speed   Travel Time              Time Dilation            Earth Time               
+----------------------------------------------------------------------------------------------------
+10                       10.0 years               x 1.0                    10.05 years              
+20                       10.0 years               x 0.98                   10.21 years              
+30                       10.0 years               x 0.95                   10.48 years              
+40                       10.0 years               x 0.92                   10.91 years              
+50                       10.0 years               x 0.87                   11.55 years              
+60                       10.0 years               x 0.8                    12.5 years               
+70                       10.0 years               x 0.71                   14.0 years               
+80                       10.0 years               x 0.6                    16.67 years              
+90                       10.0 years               x 0.44                   22.94 years              
+91                       10.0 years               x 0.41                   24.12 years              
+92                       10.0 years               x 0.39                   25.52 years              
+93                       10.0 years               x 0.37                   27.21 years              
+94                       10.0 years               x 0.34                   29.31 years              
+95                       10.0 years               x 0.31                   32.03 years              
+96                       10.0 years               x 0.28                   35.71 years              
+97                       10.0 years               x 0.24                   41.13 years              
+98                       10.0 years               x 0.2                    50.25 years              
+99                       10.0 years               x 0.14                   70.89 years  
+Time Dilation Calculator
+------------------------------------------------------------------------
+Enter all values without units
+You will be prompted for units separately. 
+Enter the length of interstellar travel time: 30
+Enter the unit of time: years
+
+Time Dilation Table
+----------------------------------------------------------------------------------------------------
+Percent of Light Speed   Travel Time              Time Dilation            Earth Time               
+----------------------------------------------------------------------------------------------------
+10                       30.0 years               x 1.0                    30.15 years              
+20                       30.0 years               x 0.98                   30.62 years              
+30                       30.0 years               x 0.95                   31.45 years              
+40                       30.0 years               x 0.92                   32.73 years              
+50                       30.0 years               x 0.87                   34.64 years              
+60                       30.0 years               x 0.8                    37.5 years               
+70                       30.0 years               x 0.71                   42.01 years              
+80                       30.0 years               x 0.6                    50.0 years               
+90                       30.0 years               x 0.44                   68.82 years              
+91                       30.0 years               x 0.41                   72.36 years              
+92                       30.0 years               x 0.39                   76.55 years              
+93                       30.0 years               x 0.37                   81.62 years              
+94                       30.0 years               x 0.34                   87.93 years              
+95                       30.0 years               x 0.31                   96.08 years              
+96                       30.0 years               x 0.28                   107.14 years             
+97                       30.0 years               x 0.24                   123.4 years              
+98                       30.0 years               x 0.2                    150.76 years             
+99                       30.0 years               x 0.14                   212.66 years   
